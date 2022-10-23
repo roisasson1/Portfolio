@@ -96,6 +96,12 @@ a:hover {
   width: 20%;
 }
 
+.js {
+  height: 148px;
+  width: 140px;
+  padding: 0 25px;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
